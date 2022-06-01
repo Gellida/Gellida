@@ -1,9 +1,9 @@
-# 'Bienvenido a mis repositorios'
+# 'Bienvenido a mi repositorio'
 Currently practicing with Kotlin. I just love **Android Development**.
 
 👋 Hi, I’m José Gellida
 
-Working on ***Dependy injection, Retrofit, Room***.
+Working on ***Depedency injection, Retrofit, Room***.
 
 Like to work with *Scrum, MVVM*
 
