@@ -3,7 +3,7 @@ Currently practicing with Kotlin. I just love **Android Development**.
 
 👋 Hi, I’m José Gellida
 
-Working on ***Depedency injection and Room***.
+Working on ***Depedency injection***.
 
 Like to work with *Scrum, MVVM, and Unit test*
 
