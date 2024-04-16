@@ -1,5 +1,5 @@
 # Bienvenido a mi repositorio
-Currently working as a Full Stack Developer with Node Js (and Express js) for the part of backend, and Vue for the frontend. 
+Currently working as an Android devoper with Kotlin
 
 👋 Hi, I’m José Gellida
 
