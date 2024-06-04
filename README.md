@@ -4,7 +4,7 @@ Currently working as an Android devoper with Kotlin
 👋 Hi, I’m José Gellida
 
 
-*You'll only see android projects, that's because I was focused on mobile development soon as I finished the bachelor degree *
+*You'll only see android projects, that's because I was focused on mobile development *
 
 what you will see in this github account.
 
